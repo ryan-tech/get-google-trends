@@ -1,0 +1,1 @@
+This project is a golang project that reads the top 10 google trends and prints them in the CLI. A get request is made to the rss feed and the XML data is unmarshalled and loaded into structs which are then printed using fmt.
